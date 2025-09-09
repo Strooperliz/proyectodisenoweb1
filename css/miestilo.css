@@ -1,0 +1,102 @@
+body{
+    background-color: beige;
+}
+#topbar{
+    background-color:#106eea ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#topbar a{
+    color: white;
+    text-decoration: none;
+}
+
+.margen_izquierdo{
+    margin-left: 15px;
+}
+#topbar i{
+    color: white;
+    margin-left: 10px;
+}
+.texto-mediano{
+    font-size: 30px !important ;
+}
+
+#menu{
+    padding-top: 5px
+    padding-bottom 5px
+}
+
+#menu a{
+    color: black;
+    text-decoration: none;
+}
+.negtrita{
+    font-weight: bold;
+}
+.azulito{
+    color: #106eea;
+}
+
+#hero{
+    background: url(../img/hero-bg.jpg);
+    background-size: cover;
+    position: center ;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+.sombra{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+#info-extra{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.caja{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.icono_grande{
+font-size: 50px;
+}
+
+.margen_extremos_columna{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#about{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #f5f9ff;
+}
+
+.botoncito{
+    color: #106eea;
+    padding: 10px 20px;
+    background-color: #bacadf;
+    border-radius: 10px;
+
+}
+footer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.hero2{
+    background-color: #106eea;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.margen_arriba_y_adentro{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
